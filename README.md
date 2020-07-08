@@ -1,23 +1,21 @@
-Cards Against Developers
+Cards Against DHBW
 ==========================
 
-Cards Against Developers is based on [Cards Against Cryptography](https://github.com/CardsAgainstCryptography/CAC) and [Cards Against Humanity](https://cardsagainsthumanity.com/). It describes itself as "a party game for horrible people". Cards Against Developers is not quite as mean, but still has bit of an edge.
-
-![Cards Against Developers Box](./images/box.png "Cards Against Developers Box")
+Cards Against DHBW is based on [Cards Against Developers](https://github.com/crashtest-security/CardsAgainstDevelopers) and [Cards Against Cryptography](https://github.com/CardsAgainstCryptography/CAC) and [Cards Against Humanity](https://cardsagainsthumanity.com/). It describes itself as "a party game for horrible people". Cards Against DHBW is not quite as mean, but still has bit of an edge.
 
 Basic Rules
 -----------
 
-See [RULES.md](https://github.com/crashtest-security/CardsAgainstDevelopers/blob/master/RULES.md) for the rules.
+See [RULES.md](RULES.md) for the rules.
 
 License
 -------
 
-Cards Against Developers is shamelessly based on [Cards Against Cryptography](https://github.com/CardsAgainstCryptography/CAC) and [Cards Against Humanity](https://cardsagainsthumanity.com/), which were released under a Creative Commons BY-NC-SA 2.0 license (https://creativecommons.org/licenses/by-nc-sa/2.0/).
+Cards Against DHBW is shamelessly based on Cards Against Developers, which is shamelessly based on [Cards Against Cryptography](https://github.com/CardsAgainstCryptography/CAC) and [Cards Against Humanity](https://cardsagainsthumanity.com/), which were released under a Creative Commons BY-NC-SA 2.0 license (https://creativecommons.org/licenses/by-nc-sa/2.0/).
 
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/2.0/88x31.png" />
 
-Cards Against Developers is released under the same license, which means you can use, remix, and share the game for free, but cannot sell it.
+Cards Against Developers is released under the same license, which means you can use, remix, and share the game for free, but cannot sell it. (You couldn't sell it anyway because I'm sure no one would by it)
 
 Contributing
 ------------

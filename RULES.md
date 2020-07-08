@@ -1,7 +1,7 @@
 Cards Against Developers
 ==========================
 
-Cards Against Developers is based on Cards Against Humanity, which described itself as "a party game for horrible people".  Cards Against Developers is not quite as mean, but still has bit of an edge.  We are big fans of the cryptographic community, and hope this game is played in a spirit of fun.  But if you don't like crude or offensive humor, this game may not be for you.
+Cards Against DHBW is based on Cards Against Developers, which is based on Cards Against Humanity, which described itself as "a party game for horrible people".  Cards Against DHBW is not quite as mean, but still has bit of an edge. But if you don't like crude or offensive humor, this game may not be for you.
 
 Basic Rules
 -----------
